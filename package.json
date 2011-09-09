@@ -1,5 +1,7 @@
 {
    "name": "trollscript",
-   "version": "0.0.1",
-   "description": "A port of the trollscript intepreter"
+   "version": "0.0.2",
+   "author": "Sugendran Ganess",
+   "description": "A port of the trollscript intepreter",
+   "homepage": "https://github.com/sugendran/trollscript"
 }
