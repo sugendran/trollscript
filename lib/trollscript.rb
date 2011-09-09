@@ -32,7 +32,7 @@ class TrollScript
   end
 
   def get_input
-    @tape[@tp] = STDIN.getc
+    @tape[@tp] = STDIN.gets.getbyte(0)
     @tape[@tp] = 0 unless @tape[@tp]
   end
 
